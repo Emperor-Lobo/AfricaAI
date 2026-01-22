@@ -1,0 +1,44 @@
+/* 🌿 AfricaAI Style */
+
+body {
+    background-color: #f7f3e9;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+/* Dégradé général */
+.stApp {
+    background: linear-gradient(to bottom right, #fff8e1, #ffe0b2);
+}
+
+/* Titres */
+h1, h2, h3 {
+    color: #388e3c;
+}
+
+/* Conteneurs (cartes) */
+.css-1d391kg, .stMarkdown, .stExpander, .stAlert {
+    background-color: #ffffff !important;
+    border: 1px solid #e0e0e0 !important;
+    border-radius: 10px !important;
+    padding: 1em !important;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Boutons */
+.stButton > button {
+    background-color: #f57c00;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.stButton > button:hover {
+    background-color: #ef6c00;
+    transform: scale(1.03);
+}
+
+/* Sélecteurs */
+.css-1wa3eu0 {
+    border-radius: 8px;
+}

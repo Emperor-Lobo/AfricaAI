@@ -1,0 +1,289 @@
+[
+  {
+    "lang": "fr",
+    "subject": "maths",
+    "level": "CM2",
+    "question": "qu est ce qu un polygone",
+    "answer": "C’est une figure fermée avec plusieurs côtés."
+  },
+  {
+    "lang": "fr",
+    "subject": "maths",
+    "level": "CM2",
+    "question": "comment calculer la moyenne",
+    "answer": "On additionne les valeurs et on divise par leur nombre."
+  },
+  {
+    "lang": "fr",
+    "subject": "maths",
+    "level": "6e",
+    "question": "qu est ce qu une fraction",
+    "answer": "C’est une manière de représenter une partie d’un tout."
+  },
+  {
+    "lang": "fr",
+    "subject": "maths",
+    "level": "5e",
+    "question": "qu est ce qu un nombre premier",
+    "answer": "Un nombre divisible uniquement par 1 et par lui-même."
+  },
+  {
+    "lang": "fr",
+    "subject": "maths",
+    "level": "4e",
+    "question": "comment resoudre une equation",
+    "answer": "On cherche la valeur qui rend l’égalité vraie."
+  },
+  {
+    "lang": "fr",
+    "subject": "maths",
+    "level": "3e",
+    "question": "qu est ce qu une fonction",
+    "answer": "C’est une relation entre deux ensembles."
+  },
+  {
+    "lang": "fr",
+    "subject": "sciences",
+    "level": "CM2",
+    "question": "qu est ce que la photosynthese",
+    "answer": "Processus où les plantes transforment la lumière en énergie."
+  },
+  {
+    "lang": "fr",
+    "subject": "sciences",
+    "level": "6e",
+    "question": "qu est ce qu une planete",
+    "answer": "Un corps céleste en orbite autour du Soleil."
+  },
+  {
+    "lang": "fr",
+    "subject": "sciences",
+    "level": "5e",
+    "question": "qu est ce qu un mammifere",
+    "answer": "Un animal qui allaite ses petits."
+  },
+  {
+    "lang": "fr",
+    "subject": "sciences",
+    "level": "4e",
+    "question": "qu est ce que l evaporation",
+    "answer": "Passage de l’état liquide à gazeux."
+  },
+  {
+    "lang": "fr",
+    "subject": "sciences",
+    "level": "3e",
+    "question": "qu est ce que le cycle de l eau",
+    "answer": "Circulation continue de l’eau sur Terre."
+  },
+  {
+    "lang": "fr",
+    "subject": "histoire",
+    "level": "CM2",
+    "question": "qu est ce que la revolution francaise",
+    "answer": "Un événement de 1789 qui a mis fin à la monarchie."
+  },
+  {
+    "lang": "fr",
+    "subject": "histoire",
+    "level": "6e",
+    "question": "qui etait napoleon",
+    "answer": "Un général devenu empereur français."
+  },
+  {
+    "lang": "fr",
+    "subject": "histoire",
+    "level": "5e",
+    "question": "qu est ce que la colonisation",
+    "answer": "Contrôle d’un territoire par un autre pays."
+  },
+  {
+    "lang": "fr",
+    "subject": "histoire",
+    "level": "4e",
+    "question": "qu est ce que l esclavage",
+    "answer": "Priver des personnes de liberté et les considérer comme des biens."
+  },
+  {
+    "lang": "fr",
+    "subject": "histoire",
+    "level": "3e",
+    "question": "qu est ce que la decolonisation",
+    "answer": "Processus d’indépendance des colonies."
+  },
+  {
+    "lang": "en",
+    "subject": "maths",
+    "level": "CM2",
+    "question": "what is a polygon",
+    "answer": "A closed figure with multiple sides."
+  },
+  {
+    "lang": "en",
+    "subject": "maths",
+    "level": "6e",
+    "question": "what is a fraction",
+    "answer": "A way to represent part of a whole."
+  },
+  {
+    "lang": "en",
+    "subject": "maths",
+    "level": "5e",
+    "question": "what is a prime number",
+    "answer": "A number divisible only by 1 and itself."
+  },
+  {
+    "lang": "en",
+    "subject": "maths",
+    "level": "4e",
+    "question": "how to solve an equation",
+    "answer": "Find the value that makes the equality true."
+  },
+  {
+    "lang": "en",
+    "subject": "maths",
+    "level": "3e",
+    "question": "what is a function",
+    "answer": "A relation between two sets."
+  },
+  {
+    "lang": "en",
+    "subject": "sciences",
+    "level": "CM2",
+    "question": "what is photosynthesis",
+    "answer": "The process by which plants make energy from sunlight."
+  },
+  {
+    "lang": "en",
+    "subject": "sciences",
+    "level": "6e",
+    "question": "what is a planet",
+    "answer": "A celestial body orbiting the sun."
+  },
+  {
+    "lang": "en",
+    "subject": "sciences",
+    "level": "5e",
+    "question": "what is a mammal",
+    "answer": "An animal that nurses its young."
+  },
+  {
+    "lang": "en",
+    "subject": "sciences",
+    "level": "4e",
+    "question": "what is evaporation",
+    "answer": "The change from liquid to gas."
+  },
+  {
+    "lang": "en",
+    "subject": "sciences",
+    "level": "3e",
+    "question": "what is the water cycle",
+    "answer": "The continuous movement of water on Earth."
+  },
+  {
+    "lang": "en",
+    "subject": "history",
+    "level": "CM2",
+    "question": "what was the french revolution",
+    "answer": "An event in 1789 that ended the monarchy."
+  },
+  {
+    "lang": "en",
+    "subject": "history",
+    "level": "6e",
+    "question": "who was napoleon",
+    "answer": "A general who became French emperor."
+  },
+  {
+    "lang": "en",
+    "subject": "history",
+    "level": "5e",
+    "question": "what is colonization",
+    "answer": "Control of a territory by another country."
+  },
+  {
+    "lang": "en",
+    "subject": "history",
+    "level": "4e",
+    "question": "what is slavery",
+    "answer": "Depriving people of freedom and treating them as property."
+  },
+  {
+    "lang": "en",
+    "subject": "history",
+    "level": "3e",
+    "question": "what is decolonization",
+    "answer": "The process of colonies gaining independence."
+  },
+  {
+    "lang": "sw",
+    "subject": "maths",
+    "level": "CM2",
+    "question": "nini ni poligoni",
+    "answer": "Ni umbo lililofungwa lenye pande nyingi."
+  },
+  {
+    "lang": "sw",
+    "subject": "maths",
+    "level": "6e",
+    "question": "nini ni fraction",
+    "answer": "Njia ya kuwakilisha sehemu ya kitu kizima."
+  },
+  {
+    "lang": "sw",
+    "subject": "sciences",
+    "level": "CM2",
+    "question": "nini ni fotosinthesisi",
+    "answer": "Mchakato wa mimea kutengeneza nishati kutoka mwanga wa jua."
+  },
+  {
+    "lang": "sw",
+    "subject": "history",
+    "level": "CM2",
+    "question": "nini ni mapinduzi ya kifaransa",
+    "answer": "Tukio la 1789 lililomaliza ufalme Ufaransa."
+  },
+  {
+    "lang": "ha",
+    "subject": "maths",
+    "level": "CM2",
+    "question": "menene polygon",
+    "answer": "Wani siffar da take da bangarori masu yawa kuma a rufe."
+  },
+  {
+    "lang": "ha",
+    "subject": "sciences",
+    "level": "CM2",
+    "question": "menene photosynthesis",
+    "answer": "Hanyar shuka ke amfani da hasken rana don yin abinci."
+  },
+  {
+    "lang": "ha",
+    "subject": "history",
+    "level": "CM2",
+    "question": "menene juyin juya hali na faransa",
+    "answer": "Abin da ya faru a 1789 da ya kawo karshen sarauta."
+  },
+  {
+    "lang": "yo",
+    "subject": "maths",
+    "level": "CM2",
+    "question": "kini polygon",
+    "answer": "Ona to ni eti pupo to si wa ni pipade."
+  },
+  {
+    "lang": "yo",
+    "subject": "sciences",
+    "level": "CM2",
+    "question": "kini photosynthesis",
+    "answer": "Ilana ti eweko nlo lati da ounje nipa imole oorun."
+  },
+  {
+    "lang": "yo",
+    "subject": "history",
+    "level": "CM2",
+    "question": "kini iyipada faranse",
+    "answer": "Iselẹ to waye ni 1789 to pari ijọba."
+  }
+]

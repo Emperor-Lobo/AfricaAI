@@ -1,0 +1,163 @@
+{
+  "fr": {
+    "maths": {
+      "CM2": {
+        "qu_est_ce_qu_un_polygone": "C’est une figure fermée avec plusieurs côtés.",
+        "comment_calculer_la_moyenne": "On additionne les valeurs et on divise par leur nombre."
+      },
+      "6e": {
+        "qu_est_ce_qu_une_fraction": "C’est une manière de représenter une partie d’un tout."
+      },
+      "5e": {
+        "qu_est_ce_qu_un_nombre_premier": "Un nombre divisible uniquement par 1 et par lui-même."
+      },
+      "4e": {
+        "comment_resoudre_une_equation": "On cherche la valeur qui rend l’égalité vraie."
+      },
+      "3e": {
+        "qu_est_ce_qu_une_fonction": "C’est une relation entre deux ensembles."
+      }
+    },
+    "sciences": {
+      "CM2": {
+        "qu_est_ce_que_la_photosynthese": "Processus où les plantes transforment la lumière en énergie."
+      },
+      "6e": {
+        "qu_est_ce_qu_une_planete": "Un corps céleste en orbite autour du Soleil."
+      },
+      "5e": {
+        "qu_est_ce_qu_un_mammifere": "Un animal qui allaite ses petits."
+      },
+      "4e": {
+        "qu_est_ce_que_l_evaporation": "Passage de l’état liquide à gazeux."
+      },
+      "3e": {
+        "qu_est_ce_que_le_cycle_de_l_eau": "Circulation continue de l’eau sur Terre."
+      }
+    },
+    "histoire": {
+      "CM2": {
+        "qu_est_ce_que_la_revolution_francaise": "Un événement de 1789 qui a mis fin à la monarchie."
+      },
+      "6e": {
+        "qui_etait_napoleon": "Un général devenu empereur français."
+      },
+      "5e": {
+        "qu_est_ce_que_la_colonisation": "Contrôle d’un territoire par un autre pays."
+      },
+      "4e": {
+        "qu_est_ce_que_l_esclavage": "Priver des personnes de liberté et les considérer comme des biens."
+      },
+      "3e": {
+        "qu_est_ce_que_la_decolonisation": "Processus d’indépendance des colonies."
+      }
+    }
+  },
+  "en": {
+    "maths": {
+      "CM2": {
+        "what_is_a_polygon": "A closed figure with multiple sides."
+      },
+      "6e": {
+        "what_is_a_fraction": "A way to represent part of a whole."
+      },
+      "5e": {
+        "what_is_a_prime_number": "A number divisible only by 1 and itself."
+      },
+      "4e": {
+        "how_to_solve_an_equation": "Find the value that makes the equality true."
+      },
+      "3e": {
+        "what_is_a_function": "A relation between two sets."
+      }
+    },
+    "sciences": {
+      "CM2": {
+        "what_is_photosynthesis": "The process by which plants make energy from sunlight."
+      },
+      "6e": {
+        "what_is_a_planet": "A celestial body orbiting the sun."
+      },
+      "5e": {
+        "what_is_a_mammal": "An animal that nurses its young."
+      },
+      "4e": {
+        "what_is_evaporation": "The change from liquid to gas."
+      },
+      "3e": {
+        "what_is_the_water_cycle": "The continuous movement of water on Earth."
+      }
+    },
+    "history": {
+      "CM2": {
+        "what_was_the_french_revolution": "An event in 1789 that ended the monarchy."
+      },
+      "6e": {
+        "who_was_napoleon": "A general who became French emperor."
+      },
+      "5e": {
+        "what_is_colonization": "Control of a territory by another country."
+      },
+      "4e": {
+        "what_is_slavery": "Depriving people of freedom and treating them as property."
+      },
+      "3e": {
+        "what_is_decolonization": "The process of colonies gaining independence."
+      }
+    }
+  },
+  "sw": {
+    "maths": {
+      "CM2": {
+        "nini_ni_poligoni": "Ni umbo lililofungwa lenye pande nyingi."
+      },
+      "6e": {
+        "nini_ni_fraction": "Njia ya kuwakilisha sehemu ya kitu kizima."
+      }
+    },
+    "sciences": {
+      "CM2": {
+        "nini_ni_fotosinthesisi": "Mchakato wa mimea kutengeneza nishati kutoka mwanga wa jua."
+      }
+    },
+    "history": {
+      "CM2": {
+        "nini_ni_mapinduzi_ya_kifaransa": "Tukio la 1789 lililomaliza ufalme Ufaransa."
+      }
+    }
+  },
+  "ha": {
+    "maths": {
+      "CM2": {
+        "menene_polygon": "Wani siffar da take da bangarori masu yawa kuma a rufe."
+      }
+    },
+    "sciences": {
+      "CM2": {
+        "menene_photosynthesis": "Hanyar shuka ke amfani da hasken rana don yin abinci."
+      }
+    },
+    "history": {
+      "CM2": {
+        "menene_juyin_juya_hali_na_faransa": "Abin da ya faru a 1789 da ya kawo karshen sarauta."
+      }
+    }
+  },
+  "yo": {
+    "maths": {
+      "CM2": {
+        "kini_polygon": "Ona to ni eti pupo to si wa ni pipade."
+      }
+    },
+    "sciences": {
+      "CM2": {
+        "kini_photosynthesis": "Ilana ti eweko nlo lati da ounje nipa imole oorun."
+      }
+    },
+    "history": {
+      "CM2": {
+        "kini_iyipada_faranse": "Iselẹ to waye ni 1789 to pari ijọba."
+      }
+    }
+  }
+}

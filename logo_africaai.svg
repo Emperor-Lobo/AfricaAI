@@ -1,0 +1,5 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="95" fill="#4caf50" stroke="#2e7d32" stroke-width="5"/>
+  <text x="50%" y="48%" text-anchor="middle" font-size="26" fill="white" font-family="Verdana" dy=".3em">Africa</text>
+  <text x="50%" y="65%" text-anchor="middle" font-size="28" fill="white" font-family="Verdana" dy=".3em">AI</text>
+</svg>

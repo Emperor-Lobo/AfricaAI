@@ -1,0 +1,16 @@
+timestamp,question,answer,lang,subject,level,similarity
+2025-07-08 14:20:49,qu est ce que la terre,Un corps céleste en orbite autour du Soleil.,fr,sciences,6e,0.7
+2025-07-08 14:21:29,comment calculer l aire d un triangle,C’est une figure fermée avec plusieurs côtés.,fr,maths,CM2,0.52
+2025-07-08 14:28:06,comment calculer l aire d un triangle,C’est une figure fermée avec plusieurs côtés.,fr,maths,CM2,0.52
+2025-07-08 16:38:26,qu est ce que la mytose,Processus où les plantes transforment la lumière en énergie.,fr,sciences,CM2,0.64
+2025-07-08 16:39:45,qu est ce que la mitose,Processus où les plantes transforment la lumière en énergie.,fr,sciences,CM2,0.66
+2025-07-08 16:40:45,qu est ce que la mitose,Processus où les plantes transforment la lumière en énergie.,fr,sciences,CM2,0.66
+2025-07-08 16:46:00,qu est ce que la photosynthese,Processus où les plantes transforment la lumière en énergie.,fr,sciences,CM2,1.0
+2025-07-08 16:46:25,qu est ce que la terre,Un corps céleste en orbite autour du Soleil.,fr,sciences,6e,0.7
+2025-07-08 16:46:49,qu est ce que la masse de la terre,Un corps céleste en orbite autour du Soleil.,fr,sciences,6e,0.65
+2025-07-08 17:02:53,qu est ce que la mitose,Processus où les plantes transforment la lumière en énergie.,fr,sciences,CM2,0.66
+2025-07-08 17:13:14,qu est ce que la mitose,Processus où les plantes transforment la lumière en énergie.,fr,sciences,CM2,0.66
+2025-07-08 17:19:28,qu est ce que la mitose,Processus où les plantes transforment la lumière en énergie.,fr,sciences,CM2,0.66
+2025-07-08 17:19:45,qu est ce que la mitose*,Processus d’indépendance des colonies.,fr,histoire,3e,0.64
+2025-07-08 17:58:46,qu est ce que la mitose,Processus où les plantes transforment la lumière en énergie.,fr,sciences,CM2,0.66
+2025-07-08 17:59:12,qu est ce que la terre,Un corps céleste en orbite autour du Soleil.,fr,sciences,6e,0.7
