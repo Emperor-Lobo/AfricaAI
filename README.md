@@ -46,5 +46,4 @@ AfricaAI/
 ├── logo_africaai.svg
 ├── logs_chatbot.csv
 ├── requirements.txt
-└── docs/
-    └── Rapport_AfricaAI.pdf
+
