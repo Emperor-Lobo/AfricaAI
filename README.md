@@ -1,6 +1,6 @@
-# 🌍 AfricaAI – Chatbot Éducatif Multilingue pour l’Afrique
+#  AfricaAI – Chatbot Éducatif Multilingue pour l’Afrique
 
-## 📖 Description
+##  Description
 AfricaAI est une plateforme éducative basée sur l’Intelligence Artificielle qui vise à offrir un **accès équitable, multilingue et intelligent à une éducation de qualité** pour les élèves africains, en particulier au Bénin comme pays pilote.
 
 Le projet combine :
@@ -12,7 +12,7 @@ Le projet combine :
 
 ---
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 - Chatbot éducatif multilingue (français, anglais, yoruba, fon, haoussa, swahili).
 - Corpus de plus de **5 000 questions-réponses** alignées aux programmes scolaires.
 - **Quiz interactifs** par matière et niveau.
@@ -22,7 +22,7 @@ Le projet combine :
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 - **Frontend** : Streamlit (PWA responsive)
 - **Backend** : FastAPI + orchestrateur IA
 - **NLP/LLM** : FLAN-T5 / LLaMA / Sentence Transformers
@@ -33,7 +33,7 @@ Le projet combine :
 
 ---
 
-## 📂 Structure du projet
+##  Structure du projet
 ```bash
 AfricaAI/
 ├── app.py
